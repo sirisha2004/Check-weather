@@ -3,7 +3,7 @@ body {
     font-family: 'Quicksand', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('./images/background.jpg');
+    background-image: url('./background.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -330,4 +330,5 @@ h1 {
     .info {
         font-size: 1.2rem;
     }
+
 }
