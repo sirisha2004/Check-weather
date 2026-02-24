@@ -27,9 +27,9 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 📁 Project Structure
 
-index.html   → UI structure
-styles.css   → Styling, animations, dark/light mode
-script.js    → API calls, suggestions, modal & toggle logic
+- index.html   → UI structure
+- styles.css   → Styling, animations, dark/light mode
+- script.js    → API calls, suggestions, modal & toggle logic
 
 ---
 
@@ -43,4 +43,4 @@ script.js    → API calls, suggestions, modal & toggle logic
 ---
 ## Logo
 
-<img width="500" height="500" alt="Designer (3)" src="https://github.com/user-attachments/assets/ca4b4357-e477-42bd-90b1-7c2163859aa3" />
+<img width="400" height="400" alt="Designer (3)" src="https://github.com/user-attachments/assets/ca4b4357-e477-42bd-90b1-7c2163859aa3" />
