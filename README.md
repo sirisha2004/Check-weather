@@ -38,7 +38,11 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - HTML5  
 - CSS3  
 - JavaScript  
-- OpenWeatherMap API  
+- OpenWeatherMap API
+
+---
+## project live link
+https://checkweatherpro.netlify.app/
 
 ---
 ## Logo
