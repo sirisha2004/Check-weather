@@ -45,6 +45,6 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 https://checkweatherpro.netlify.app/
 
 ---
-## Logo
+## 🌐 Logo
 
 <img width="400" height="300" alt="Designer (3)" src="https://github.com/user-attachments/assets/ca4b4357-e477-42bd-90b1-7c2163859aa3" />
